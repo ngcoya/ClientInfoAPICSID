@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Published Projects\ClientInfoApi</_PublishTargetUrl>
+    <History>True|2021-10-18T19:42:50.0679081Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DbConnection">
+      <Value>Server=RICHMAN\SQLEXPRESS%3bDatabase=ClientInformation%3bUser ID=sa%3bPassword=v3r1t%40s%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Published Projects\ClientInfoApi</_PublishTargetUrl>
+    <History>True|2021-07-14T20:40:03.1417893Z;True|2021-07-14T19:19:22.0793273+02:00;True|2021-07-14T17:02:39.0648874+02:00;True|2021-07-14T17:00:02.3287237+02:00;True|2021-07-07T22:24:16.4208360+02:00;True|2021-06-26T09:45:52.4052223+02:00;True|2021-06-25T22:53:15.5276950+02:00;True|2021-06-25T14:39:53.9021487+02:00;True|2021-06-25T14:05:52.4969331+02:00;</History>
+  </PropertyGroup>
+</Project>
